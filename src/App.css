@@ -1,0 +1,31 @@
+.product-list{
+  margin-left: 20px;
+  margin-top: 100px;
+  padding: 20px;
+  width: 200px;
+  height: 400px;
+}
+.about-product{
+ 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.product-details{
+  position: relative;
+  background-color: antiquewhite;
+  left: 600px;
+  bottom: 270px;
+  text-align: center;
+  padding: 20px;
+}
+#quantity-product{
+  position: relative;
+  left: 200px;
+  bottom: 120px;
+}
+.total-price{
+  color: red;
+  padding: 20px;
+  
+}
